@@ -8,7 +8,7 @@
   "host": "project1-rq6i.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https "
+    "https"
   ],
   "paths": {
     "/": {
